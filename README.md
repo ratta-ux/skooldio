@@ -10,8 +10,8 @@ I truly believe that Skooldio can help them to achieve their goals.
 
 # My design resources
 
-- [Redesign Skooldio Portfolio](https://docs.google.com/presentation/d/1k1yO_yyQmx2hJMJ0IecpuimlYZ8sp6qxK0r9p8E21Bk)
-- [Redesign High-Fidelity Prototype](https://user-images.githubusercontent.com/73061978/99879536-414c9880-2c40-11eb-842b-f8b191dab42c.png)
+- [Redesign Skooldio Portfolio](https://www.dropbox.com/s/vw3zi9efusjbwe3/Skooldio-portfolio.pdf)
+- [Redesign High-Fidelity Prototype](https://www.dropbox.com/s/fyt262vei4poekm/Redesign-Skooldio.png)
 - [Research and Synthesis Map](https://miro.com/app/board/o9J_le1l-q4=)
 
 ![Skooldio redesign](https://user-images.githubusercontent.com/73061978/99879164-891df080-2c3d-11eb-8a14-350f14efe8ea.png)
